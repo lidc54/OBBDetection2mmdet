@@ -1,0 +1,3 @@
+[submodule "OBBDetection"]
+	path = OBBDetection
+	url = https://github.com/jbwang1997/OBBDetection.git
